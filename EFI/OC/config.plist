@@ -831,7 +831,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02C10JXPN5T</string>
 			<key>SystemUUID</key>
-			<string>28300706-06AA-483D-8C70-B6F4AACB1254</string>
+			<string>14CAEDA5-6628-4B95-BF79-098E1CCC9D58</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -852,7 +852,20 @@
 			<key>SystemSerialNumber</key>
 			<string>C02C10JXPN5T</string>
 			<key>SystemUUID</key>
-			<string>28300706-06AA-483D-8C70-B6F4AACB1254</string>
+			<string>14CAEDA5-6628-4B95-BF79-098E1CCC9D58</string>
+		</dict>
+		<key>PlatformNVRAM</key>
+		<dict>
+			<key>BID</key>
+			<string></string>
+			<key>FirmwareFeatures</key>
+			<data>dvWP/QAAAAA=</data>
+			<key>FirmwareFeaturesMask</key>
+			<data>f//f/wAAAAA=</data>
+			<key>MLB</key>
+			<string>C02953300CDPHCDJA</string>
+			<key>ROM</key>
+			<data>ESIzRFVm</data>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -907,7 +920,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C02C10JXPN5T</string>
 			<key>SystemUUID</key>
-			<string>28300706-06AA-483D-8C70-B6F4AACB1254</string>
+			<string>14CAEDA5-6628-4B95-BF79-098E1CCC9D58</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
